@@ -17,7 +17,12 @@ This repository provides a basic setup for a browser-based life simulator built 
    cd client
    npm run dev
    ```
-3. Build the client and start the server:
+3. In another terminal, start the server for API access during development:
+   ```bash
+   cd server
+   npm start # or `node index.js`
+   ```
+4. Build the client and start the server:
    ```bash
    cd client && npm run build
    cd ../server && npm start
