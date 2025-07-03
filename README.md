@@ -7,11 +7,12 @@ This repository provides a basic setup for a browser-based life simulator built 
 
 ## Development
 
-1. Install dependencies for both `client` and `server`:
+1. **Install dependencies before running any other commands**:
    ```bash
    cd client && npm install
    cd ../server && npm install
    ```
+   If you encounter an error like `Cannot find package 'vite'`, it typically means the dependencies were not installed.
 2. Run the client in development mode:
    ```bash
    cd client
