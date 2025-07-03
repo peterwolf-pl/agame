@@ -1,0 +1,22 @@
+.home-screen {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.app-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 0.8rem;
+  color: #222;
+}
+
+.app-icon .icon {
+  width: 50px;
+  height: 50px;
+  background-color: #ececec;
+  border-radius: 10px;
+  margin-bottom: 0.5rem;
+}
