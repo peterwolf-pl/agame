@@ -1,0 +1,175 @@
+Ogólna koncepcja
+Symulator życia połączony z elementami biznesu, hazardu i wyboru kariery. Gracz buduje swoją codzienność, dokonując wyborów w różnych sferach: pracy, relacji, rozwoju osobistego i finansowego. Celem jest utrzymanie jak najwyższych i zbalansowanych parametrów życiowych, jednocześnie stawiając czoło codziennym problemom (m.in. wyzwania związane z ADHD).
+
+2. Kluczowe lokalizacje
+1. Osiedla mieszkalne (5 różnych poziomów):
+    * Domy i mieszkania zróżnicowane cenowo.
+    * Szkoła, pub, sklep, warzywniak, biblioteka, rynek, kebab, pizzeria, siłownia, park, warsztat, paczkomat, lombard, komunikacja miejska, kościół, automaty hazardowe, bukmacher.
+    * Specjalne elementy na wybranych osiedlach (stadion, basen, szpital, kampus, centrum handlowe).
+2. Centrum miasta:
+    * Apartamentowce, VIP pub, klub nocny, kino, teatr, urząd miasta, restauracje, muzeum, giełda, komunikacja miejska.
+3. Lotnisko:
+    * Wypożyczalnia samochodów, sklepy, bilety, możliwość podróży.
+4. Lasy i tereny rekreacyjne:
+    * Pijalnia piwa, korty tenisowe, stawy, wypożyczalnia sprzętu wodnego, schronisko dla zwierząt.
+5. Wieś:
+    * Domy, lokalny sklep, skup produktów, pola uprawne, szklarnie, pijalnia piwa.
+
+3. Ekwipunek i interfejs gracza
+* Smartfon i smartwatch – główny sposób interakcji z grą:
+    * Przeglądarka (poszukiwanie pracy, mieszkania, reklama, portal z eskortami, wiadomości).
+    * Alledrogo (handel online).
+    * Mail, telefon/kontakty.
+    * Fakebook, Badoom, Instagram.
+    * Muzyka, gry.
+    * Bank (zarządzanie finansami).
+    * Pinteresujące (DIY, inspiracje).
+    * Aplikacja „MójObywatel” (wiadomości urzędowe, opłaty za mieszkanie, informacje związane z edukacją).
+    * Aplikacja „Zdrowie” (monitorowanie parametrów życiowych).
+
+4. Parametry życiowe (monitorowane w aplikacji „Zdrowie”)
+* Znudzenie
+* Sprawność intelektualna
+* Poczucie luksusu
+* Głód
+* Zmęczenie
+* Sen
+* Towarzystwo
+* Miłość
+* Zaspokojenie seksualne
+* Poziom stresu
+* Uzależnienia (np. alkohol, hazard, Internet)
+* Higiena osobista
+* Stan zdrowia fizycznego i psychicznego
+* Satysfakcja z pracy
+* Samodyscyplina
+* Otwartość na nowe doświadczenia
+
+5. Parametry personalne
+* Kreatywność
+* Umiejętności techniczne
+* Artystyczne
+* Nauki ścisłe
+* Lingwistyczne
+* Aktorskie
+* Charyzma
+* Sport
+* Inteligencja emocjonalna
+* Zdolności organizacyjne
+* Pamięć i koncentracja
+* Umiejętności retoryczne (wystąpienia publiczne)
+* Networking / relacje biznesowe
+* Zarządzanie finansami
+* Kreatywność artystyczna vs. kreatywność techniczna
+* Zainteresowania kulturowe (muzyka, sztuka, literatura)
+* Odporność na pokusy / nałogi
+* Empatia
+
+6. Przykładowe ścieżki kariery
+* Praca na etacie (różne poziomy stanowisk i płac)
+* Otwarcie własnej legalnej firmy (np. sklep, warsztat, usługi IT)
+* Nielegalne przedsięwzięcia (hazard, handel szemranymi towarami)
+* Kariera artysty (muzyk, aktor, pisarz itp.)
+* Handel online (sprzedaż własnych produktów na „Alledrogo”)
+* Rolnictwo (uprawa na wsi, produkcja żywności)
+* Ksiądz, osoba duchowna
+* Możliwość zostania bezrobotnym i bezdomnym
+* Wersja studencka (życie na kampusie, kluby studenckie, rozwój edukacyjny)
+Gracz może łączyć kilka źródeł dochodu, balansując ryzyko oraz wymagania czasowe czy finansowe.
+
+7. Rozgrywka i cykl dnia
+1. Poruszanie się pomiędzy lokacjami (mieszkania, praca, sklepy, rozrywka).
+2. Zarządzanie czasem: praca, odpoczynek, nauka, relacje towarzyskie.
+3. Utrzymywanie i rozwijanie parametrów życiowych oraz personalnych.
+4. Podejmowanie decyzji finansowych (inwestycje, zakupy, hazard).
+5. Rozwijanie relacji (familijne, partnerskie, przyjacielskie, biznesowe).
+6. Okazjonalne wydarzenia losowe (awarie, choroby, nagłe oferty pracy).
+7. Możliwość kupowania dodatkowych gadżetów (np. smartwatch, lepszy telefon, auto).
+
+8. Cel gry
+Utrzymanie postaci w jak najlepszej formie (fizycznej, psychicznej i finansowej) poprzez strategiczne planowanie czasu i zasobów. Różne ścieżki kariery i styl życia wpływają na punktację i rozwój bohatera. Ostateczny cel (np. osiągnięcie określonej kariery lub wysokiego poziomu wszystkich parametrów) można dostosować do preferencji gracza.
+ 9. Mechanika czasu i rozwoju
+1. Podział doby – dzień w grze składa się z kilku segmentów (rano, popołudnie, wieczór, noc). Każde działanie zajmuje określoną część czasu, np. praca = 1 segment, zajęcia edukacyjne = 1 segment, spotkanie towarzyskie = ½ segmentu.
+2. System punktów energii – na początku dnia gracz ma określoną pulę energii. Wykonywane czynności mogą ją zmniejszać lub zwiększać (np. kawa lub sen dodają energii).
+3. Rozwój postaci – regularne zajmowanie się daną aktywnością (nauka, trening, praca) zwiększa odpowiedni parametr personalny. Z czasem odblokowują się nowe możliwości kariery, przedsięwzięć i relacji.
+10. Ekonomia i finanse
+1. Różnorodne źródła dochodu – praca etatowa, własny biznes, handel internetowy, działalność artystyczna, rolnictwo, kariera duchowna czy nawet działania nielegalne.
+2. Wydatki stałe i losowe – czynsz za mieszkanie, opłaty za komunikację, żywność, rozrywka. Od czasu do czasu mogą pojawić się nieprzewidziane koszty (awaria samochodu, mandat, koszty leczenia).
+3. Inwestycje i ryzyko – gracz może inwestować w rozwój własnej firmy, kupno nieruchomości albo akcje na giełdzie. Może też spróbować hazardu (zakłady, automaty), co potencjalnie przyniesie szybki zysk lub straty.
+11. Interakcje społeczne
+1. Relacje z innymi postaciami – przyjaźnie, związki romantyczne, kontakty biznesowe. Wysoki poziom relacji wpływa na zadowolenie i otwiera dodatkowe możliwości (np. nowe oferty pracy).
+2. System reputacji – dobre lub złe decyzje wpływają na odbiór bohatera w społeczeństwie, co może utrudniać lub ułatwiać rozwój w danej ścieżce kariery.
+3. Wydarzenia losowe – spotkania z NPC (np. wspólna impreza, nieoczekiwana propozycja współpracy), okazjonalne kłopoty (np. konflikt z szefem, kłopoty z prawem).
+12. Dodatkowe możliwości rozwoju
+1. Umiejętności specjalne – wraz z postępami w grze gracz może nauczyć się nowych „perków”, np. szybsze zdobywanie wiedzy, większa charyzma, lepsze zarządzanie finansami.
+2. Projekty osobiste – pisanie książki, nagrywanie albumu muzycznego, udział w zawodach sportowych. Sukces w projekcie może znacząco poprawić reputację i finanse.
+13. Styl graficzny i interfejs
+1. Widok izometryczny lub 2D – ułatwi obsługę w przeglądarce i na urządzeniach mobilnych.
+2. Smartfon i smartwatch w grze – główny hub dla informacji i zarządzania codziennymi sprawami. Powiadomienia z „aplikacji” informują o nowych wydarzeniach, wiadomościach czy terminach.
+Obsługa pełnego ekranu na iOS – dzięki progresywnej aplikacji webowej (PWA) grę można dodać do ekranu głównego, a obsługa gestów pozwoli na płynne poruszanie się.   #$#$#$#$##$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$$#$#$#$#$#$#$  1. Losowe wydarzenia i wyzwania dnia codziennego
+* Niespodziewane wiadomości – nagłe telefony od znajomych, pilne maile z pracy, awarie w mieszkaniu.
+* Krótkie zadania – np. remont, naprawa samochodu, wyjście do urzędu – każde wymaga poświęcenia czasu i/lub pieniędzy.
+* Wydarzenia pogodowe – ulewa czy upał mogą utrudniać pracę lub poruszanie się po mieście, ale dają okazję do rozrywki w pomieszczeniach.
+2. System mini-gier
+* Mini-gra hazardowa (automaty, poker) – pozwala szybko zarobić lub stracić gotówkę, wpływa na poziom uzależnienia.
+* Trening na siłowni – krótkie wyzwania zręcznościowe zwiększające statystykę „sport”.
+* Gotowanie – proste kombinacje składników poprawiające umiejętności kulinarne i zaspokajające głód.
+3. Głębsza mechanika relacji
+* Konflikty – spory ze współpracownikami, kłótnie w rodzinie, które obniżają morale i wymagają działań naprawczych.
+* Wydarzenia specjalne – np. ślub, rozwód, narodziny dziecka. Każde z nich wprowadza dodatkowe zadania i nowe możliwości fabularne.
+* Rozbudowany system dialogów – wybór odpowiedzi podczas rozmów może zwiększać charyzmę, wzmacniać przyjaźń lub prowadzić do konfliktu.
+4. Rozwój biznesu
+* Skalowanie firmy – możliwość zatrudniania pracowników i zarządzania zespołem (potrzeba zdolności organizacyjnych).
+* Badania i rozwój – inwestowanie w technologie lub nowe produkty dla wyższych zysków.
+* Kampanie marketingowe – reklamowanie się w mediach społecznościowych i na billboardach, ryzykując (lub nie) negatywne reakcje społeczeństwa.
+5. Tryby gry i poziomy trudności
+* Kariera „eksperymentatora” – częste zmiany pracy i stylu życia, co przyspiesza odkrywanie nowych ścieżek, ale utrudnia stabilność finansową.
+* Tryb realistyczny – konieczność ścisłego przestrzegania budżetu, większy wpływ zmęczenia i chorób na codzienne działania.
+* Tryb relaksacyjny – uproszczona ekonomia i mniej losowych problemów, idealny do swobodnego poznawania świata gry.
+6. Integracja społecznościowa
+* Rankingi online – zestawienia najlepszych wyników w poszczególnych kategoriach (np. kapitał, poziom relacji, rozwój osobisty).
+* Wspólne wyzwania – cykliczne „eventy” dla graczy (np. konkurs na pomysł biznesu, akcje charytatywne).
+* Możliwość wymiany wirtualnych towarów – współpraca lub konkurencja na wspólnym rynku.
+  #$#$#$#$##$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$$#$#$#$#$#$#$333   1. Dalszy rozwój mini-gier
+* Escape Room Online – krótkie, kooperacyjne zagadki logiczne. Poprawiają pamięć i współpracę z innymi graczami.
+* Symulator imprez – organizacja domówek i wydarzeń firmowych (dobieranie muzyki, cateringu, zapraszanych osób). Sukces zwiększa reputację i parametry towarzyskie.
+* Mobilne aplikacje w grze – np. prosta „apka” do inwestowania w akcje. Wymaga zapoznania się z wykresami i ponosi ryzyko strat.
+2. System zdrowia i chorób
+* Przypadłości – stres, nadwaga, bezsenność, przewlekły ból pleców. Można je leczyć, zwracając uwagę na tryb życia (ćwiczenia, dieta) albo wykupując ubezpieczenie.
+* Aktywność fizyczna – odblokowuje się więcej miejsc treningowych: siłownia plenerowa, klub bokserski, basen, park do biegania. Regularne ćwiczenia polepszają wybrane parametry i zmniejszają poziom stresu.
+* Terapia – możliwość uczestnictwa w sesjach psychoterapeutycznych czy grupach wsparcia. Zwiększa samodyscyplinę i inteligencję emocjonalną.
+3. Specjalne wydarzenia i scenariusze
+* “Start-up Week” – tygodniowe wyzwanie dla postaci, gdzie można założyć nową firmę w przyspieszonym tempie. Wymaga intensywnej pracy (wysoki koszt energii), ale przynosi szansę na duży zysk.
+* Sezon na festiwale – okazja do udziału w wydarzeniach muzycznych, artystycznych czy kulinarnych. Dodatkowe zadania i możliwość poznania unikalnych NPC.
+* Kryzysy losowe – okresowe wydarzenia, np. załamanie rynku czy nagły spadek zdrowia, które zmuszają do szybkiego przeorganizowania planu dnia.
+4. Rozbudowa interakcji społecznych
+* Relacje rodzinne – możliwość rozwinięcia wątków z rodzicami, rodzeństwem czy partnerem/partnerką. Wysoki poziom relacji wpływa na „psychikę” i otwiera dodatkowe scenariusze (np. wspólny biznes).
+* System „sławy” – wraz ze zdobywaniem sukcesów rośnie rozpoznawalność. Zyskujemy nowe opcje (współpraca z mediami, reklamy), ale musimy dbać o wizerunek.
+* Konflikty z postaciami – rywalizacja w pracy, długi u znajomych, problematyczni sąsiedzi. Nierozwiązane konflikty mogą obniżać parametry psychiczne.
+5. Realizacja długofalowych celów
+* Cele roczne i pięcioletnie – gracz może ustalić sobie plan (np. ukończenie studiów, otwarcie sklepu, zgromadzenie określonego kapitału). Po osiągnięciu celu dostaje premię do wybranych statystyk.
+* Ścieżki życia – wybór określonego „lifestyle’u” (np. kariera w korporacji, freelancing, podróżowanie po świecie). Decyzja ma wpływ na codzienne możliwości i długofalowy rozwój postaci.
+ @#$%!#$!@#$!@#$!@#$!@#$!@#$!#$%@$#%^%$%^  1. Dalszy rozwój mini-gier
+* Escape Room Online – krótkie, kooperacyjne zagadki logiczne. Poprawiają pamięć i współpracę z innymi graczami.
+* Symulator imprez – organizacja domówek i wydarzeń firmowych (dobieranie muzyki, cateringu, zapraszanych osób). Sukces zwiększa reputację i parametry towarzyskie.
+* Mobilne aplikacje w grze – np. prosta „apka” do inwestowania w akcje. Wymaga zapoznania się z wykresami i ponosi ryzyko strat.
+2. System zdrowia i chorób
+* Przypadłości – stres, nadwaga, bezsenność, przewlekły ból pleców. Można je leczyć, zwracając uwagę na tryb życia (ćwiczenia, dieta) albo wykupując ubezpieczenie.
+* Aktywność fizyczna – odblokowuje się więcej miejsc treningowych: siłownia plenerowa, klub bokserski, basen, park do biegania. Regularne ćwiczenia polepszają wybrane parametry i zmniejszają poziom stresu.
+* Terapia – możliwość uczestnictwa w sesjach psychoterapeutycznych czy grupach wsparcia. Zwiększa samodyscyplinę i inteligencję emocjonalną.
+3. Specjalne wydarzenia i scenariusze
+* “Start-up Week” – tygodniowe wyzwanie dla postaci, gdzie można założyć nową firmę w przyspieszonym tempie. Wymaga intensywnej pracy (wysoki koszt energii), ale przynosi szansę na duży zysk.
+* Sezon na festiwale – okazja do udziału w wydarzeniach muzycznych, artystycznych czy kulinarnych. Dodatkowe zadania i możliwość poznania unikalnych NPC.
+* Kryzysy losowe – okresowe wydarzenia, np. załamanie rynku czy nagły spadek zdrowia, które zmuszają do szybkiego przeorganizowania planu dnia.
+4. Rozbudowa interakcji społecznych
+* Relacje rodzinne – możliwość rozwinięcia wątków z rodzicami, rodzeństwem czy partnerem/partnerką. Wysoki poziom relacji wpływa na „psychikę” i otwiera dodatkowe scenariusze (np. wspólny biznes).
+* System „sławy” – wraz ze zdobywaniem sukcesów rośnie rozpoznawalność. Zyskujemy nowe opcje (współpraca z mediami, reklamy), ale musimy dbać o wizerunek.
+* Konflikty z postaciami – rywalizacja w pracy, długi u znajomych, problematyczni sąsiedzi. Nierozwiązane konflikty mogą obniżać parametry psychiczne.
+5. Realizacja długofalowych celów
+* Cele roczne i pięcioletnie – gracz może ustalić sobie plan (np. ukończenie studiów, otwarcie sklepu, zgromadzenie określonego kapitału). Po osiągnięciu celu dostaje premię do wybranych statystyk.
+* Ścieżki życia – wybór określonego „lifestyle’u” (np. kariera w korporacji, freelancing, podróżowanie po świecie). Decyzja ma wpływ na codzienne możliwości i długofalowy rozwój postaci.
+  &&&&^^&&^&^&^&^&^&^^&&^&^&^&^&^&^^&&^^&^&^&&^^&^&^&^&^&&^&^^&^&^&^&^&^&^&^&&^  	React + TypeScript – główny framework dla warstwy UI.
+* Phaser.js / Pixi.js / Three.js – biblioteki do renderowania i mechaniki gry.
+* Node.js + Express (ew. socket.io) – backend i komunikacja w czasie rzeczywistym.
+* Service Worker + manifest PWA – możliwość instalacji na ekranie głównym i pełnoekranowego działania na iOS.
+    
