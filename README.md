@@ -24,3 +24,5 @@ This repository provides a basic setup for a browser-based life simulator built 
    ```
 
 The server serves the compiled client from `client/dist` and exposes a sample API endpoint at `/api/hello`.
+It also provides an in-memory `/api/stats` endpoint used by the client to display
+basic player parameters within the **Zdrowie** app on the in-game smartphone.

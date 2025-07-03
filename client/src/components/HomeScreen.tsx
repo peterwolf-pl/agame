@@ -3,6 +3,7 @@ import './HomeScreen.css'
 
 interface AppIconProps {
   name: string
+  onSelect: (name: string) => void
 }
 
 const apps = [
@@ -21,17 +22,21 @@ const apps = [
   'Zdrowie'
 ]
 
-const AppIcon: FC<AppIconProps> = ({ name }) => (
-  <div className="app-icon">
+const AppIcon: FC<AppIconProps> = ({ name, onSelect }) => (
+  <button type="button" className="app-icon" onClick={() => onSelect(name)}>
     <div className="icon" />
     <span>{name}</span>
-  </div>
+  </button>
 )
 
-const HomeScreen: FC = () => (
+interface Props {
+  onOpen: (name: string) => void
+}
+
+const HomeScreen: FC<Props> = ({ onOpen }) => (
   <div className="home-screen">
     {apps.map((app) => (
-      <AppIcon key={app} name={app} />
+      <AppIcon key={app} name={app} onSelect={onOpen} />
     ))}
   </div>
 )
