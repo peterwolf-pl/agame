@@ -24,6 +24,7 @@ const defaultStats: PlayerStats = {
 interface StatsContext {
   stats: PlayerStats
   setStats: (stats: PlayerStats) => void
+  applyEffects: (effects: Partial<PlayerStats>) => void
 }
 
 const PlayerStatsContext = createContext<StatsContext | undefined>(undefined)
@@ -31,8 +32,19 @@ const PlayerStatsContext = createContext<StatsContext | undefined>(undefined)
 export const PlayerStatsProvider = ({ children }: { children: ReactNode }) => {
   const [stats, setStats] = useState<PlayerStats>(defaultStats)
 
+  const applyEffects = (effects: Partial<PlayerStats>) => {
+    setStats((prev) => {
+      const updated = { ...prev }
+      Object.entries(effects).forEach(([key, value]) => {
+        const k = key as keyof PlayerStats
+        updated[k] = prev[k] + (value ?? 0)
+      })
+      return updated
+    })
+  }
+
   return (
-    <PlayerStatsContext.Provider value={{ stats, setStats }}>
+    <PlayerStatsContext.Provider value={{ stats, setStats, applyEffects }}>
       {children}
     </PlayerStatsContext.Provider>
   )

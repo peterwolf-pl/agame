@@ -13,27 +13,55 @@ app.get('/api/hello', (req, res) => {
   res.json({ message: 'Hello from the backend!' });
 });
 
-// Simple AI event endpoint placeholder
-app.post('/api/ai/event', (req, res) => {
-  const events = [
-    {
-      text: 'Spotykasz tajemniczego przechodnia oferującego szybki zarobek.',
-      options: [
-        { id: 'accept', description: 'Przyjmij ofertę' },
-        { id: 'decline', description: 'Odmów i odejdź' },
-      ],
-    },
-    {
-      text: 'Znajdujesz portfel na chodniku.',
-      options: [
-        { id: 'keep', description: 'Zachowaj pieniądze' },
-        { id: 'return', description: 'Odnies portfel właścicielowi' },
-      ],
-    },
-  ];
+// --- AI event system ---
+const events = [
+  {
+    id: 'evt1',
+    description:
+      'Spotykasz tajemniczego przechodnia oferującego szybki zarobek.',
+    options: [
+      {
+        label: 'Przyjmij ofertę',
+        resultText: 'Zgadzasz się i zyskujesz trochę gotówki kosztem stresu.',
+        effects: { luxury: 10, stress: 15 },
+      },
+      {
+        label: 'Odmów i odejdź',
+        resultText: 'Ignorujesz propozycję i zachowujesz spokój.',
+        effects: { selfDiscipline: 5, stress: -5 },
+      },
+    ],
+  },
+  {
+    id: 'evt2',
+    description: 'Znajdujesz portfel na chodniku.',
+    options: [
+      {
+        label: 'Zachowaj pieniądze',
+        resultText: 'Zatrzymujesz gotówkę, ale czujesz wyrzuty sumienia.',
+        effects: { luxury: 5, stress: 5 },
+      },
+      {
+        label: 'Odnies portfel właścicielowi',
+        resultText: 'Oddajesz portfel i zyskujesz wdzięczność.',
+        effects: { social: 5, selfDiscipline: 2 },
+      },
+    ],
+  },
+];
 
+app.post('/api/ai/event', (req, res) => {
   const event = events[Math.floor(Math.random() * events.length)];
   res.json(event);
+});
+
+app.post('/api/ai/event/resolve', (req, res) => {
+  const { eventId, optionLabel } = req.body;
+  const ev = events.find((e) => e.id === eventId);
+  if (!ev) return res.status(404).end();
+  const option = ev.options.find((o) => o.label === optionLabel);
+  if (!option) return res.status(404).end();
+  res.json({ resultText: option.resultText, effects: option.effects });
 });
 
 // Fallback to index.html for SPA routes

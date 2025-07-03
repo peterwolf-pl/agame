@@ -18,11 +18,13 @@ export interface PlayerStats {
 }
 
 export interface AIEventOption {
-  id: string;
-  description: string;
+  label: string;
+  resultText: string;
+  effects: Partial<PlayerStats>;
 }
 
 export interface AIEvent {
-  text: string;
+  id: string;
+  description: string;
   options: AIEventOption[];
 }
