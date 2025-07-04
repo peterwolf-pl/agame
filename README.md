@@ -1,12 +1,16 @@
 # ADHD Life Template
 
-This repository provides a basic setup for a browser-based life simulator built with React and Node.js. It includes:
+This repository provides a basic setup for a browser-based life simulator built with React and Node.js. It requires **Node.js 20** or newer and includes:
 
 - **client/** – a React + TypeScript app created with Vite.
 - **server/** – a minimal Express server serving the built client and an example API endpoint.
 
 ## Development
 
+Make sure you are running **Node.js 20** or later. You can check with:
+```bash
+node --version
+```
 1. **Install dependencies before running any other commands**:
    ```bash
    cd client && npm install
